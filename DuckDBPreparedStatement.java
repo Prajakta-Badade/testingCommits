@@ -24,7 +24,6 @@ import java.sql.SQLXML;
 import java.sql.Time;
 import java.sql.Timestamp;
 import java.sql.Types;
-import java.util.Calendar;
 
 public class DuckDBPreparedStatement implements PreparedStatement {
 	private DuckDBConnection conn;
