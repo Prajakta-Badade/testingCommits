@@ -22,7 +22,6 @@ import java.sql.SQLFeatureNotSupportedException;
 import java.sql.SQLWarning;
 import java.sql.SQLXML;
 import java.sql.Time;
-import java.sql.Timestamp;
 import java.sql.Types;
 
 public class DuckDBPreparedStatement implements PreparedStatement {
